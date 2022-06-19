@@ -2,7 +2,9 @@
 
 #### The project aims to decongest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with different IT setups that use different file formats. the job is to create a data pipeline that collects data available in different formats and, consolidates it into a single file.
 
-##### Task 1.1: Define DAG arguments (2pts)
+##### The main Tasks
+
+Task 1.1: Define DAG arguments (2pts)
 
 Task 1.2: Define the DAG 
 
