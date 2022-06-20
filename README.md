@@ -29,3 +29,6 @@ Task 1.10: Submit the DAG
 Task 1.11: Unpause the DAG 
 
 Task 1.12: Monitor the DAG 
+
+![alt text](https://github.com/aia-elkashef/ETL-Pipeline-using-Airflow/blob/main/dag_runs.jpg)
+
