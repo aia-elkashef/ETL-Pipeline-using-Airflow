@@ -30,5 +30,5 @@ Task 11: Unpause the DAG
 
 Task 12: Monitor the DAG 
 
-![alt text](https://github.com/aia-elkashef/ETL-Pipeline-using-Airflow/blob/main/dag_runs.jpg)
+![alt text](https://github.com/aia-elkashef/ETL-Pipeline-using-Airflow/blob/main/dag_runs.png)
 
