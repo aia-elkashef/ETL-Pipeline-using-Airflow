@@ -6,29 +6,29 @@
 
 ##### The main Tasks
 
-Task 1.1: Define DAG arguments (2pts)
+Task 1: Define DAG arguments (2pts)
 
-Task 1.2: Define the DAG 
+Task 2: Define the DAG 
 
-Task 1.3: Create a task to download data 
+Task 3: Create a task to download data 
 
-Task 1.4: Create a task to extract data from csv file 
+Task 4: Create a task to extract data from csv file 
 
-Task 1.5: Create a task to extract data from tsv file 
+Task 5: Create a task to extract data from tsv file 
 
-Task 1.6: Create a task to extract data from fixed width file 
+Task 6: Create a task to extract data from fixed width file 
 
-Task 1.7: Create a task to consolidate data extracted from previous tasks 
+Task 7: Create a task to consolidate data extracted from previous tasks 
 
-Task 1.8: Transform the data 
+Task 8: Transform the data 
 
-Task 1.9: Define the task pipeline 
+Task 9: Define the task pipeline 
 
-Task 1.10: Submit the DAG 
+Task 10: Submit the DAG 
 
-Task 1.11: Unpause the DAG 
+Task 11: Unpause the DAG 
 
-Task 1.12: Monitor the DAG 
+Task 12: Monitor the DAG 
 
 ![alt text](https://github.com/aia-elkashef/ETL-Pipeline-using-Airflow/blob/main/dag_runs.jpg)
 
