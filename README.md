@@ -6,7 +6,7 @@
 
 ##### The main Tasks
 
-Task 1: Define DAG arguments (2pts)
+Task 1: Define DAG arguments 
 
 Task 2: Define the DAG 
 
