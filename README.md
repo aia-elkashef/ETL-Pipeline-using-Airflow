@@ -1,6 +1,9 @@
 # ETL-Pipeline-using-Airflow-IBM-Final-project
 
-#### The project aims to decongest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with different IT setups that use different file formats. 
+## This is the Final-project of ETL and Data Pipelines with Shell, Airflow and Kafka Course - IBM Data Engineering PROFESSIONAL CERTIFICATE on Coursera
+
+
+The project aims to decongest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with different IT setups that use different file formats. 
 
 #### The job is to create a data pipeline that collects data available in different formats and, consolidates it into a single file.
 
